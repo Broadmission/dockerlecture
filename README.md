@@ -1,10 +1,10 @@
-#手把手帶你學docker  
-  
-  
+#手把手帶你學docker-超輕量虛擬技術入門篇 
+   
+  
 歡迎您參加手把手帶你學Docker : 超輕量虛擬技術入門篇課程。
-教學相關內容資源如下:
-  
-  
+教學相關內容資源如下: 
+   
+   
   
 ##投影片  
   
@@ -13,7 +13,7 @@
   
 ##範例程式
   
-- 可至[broadmission](https://github.com/Broadmission/dockerlecture)Github[下載](https://github.com/Broadmission/dockerlecture/blob/master/basic_docker_workshop_03042017.zip?raw=true)  
+- 可至[Broadmission](https://github.com/Broadmission/dockerlecture) Github [下載](https://github.com/Broadmission/dockerlecture/blob/master/basic_docker_workshop_03042017.zip?raw=true)  
 
 - 或安裝 [Git](https://zh.wikipedia.org/wiki/Git)後進入命令列輸入
   `cd 欲安裝路徑`
@@ -22,15 +22,17 @@
 即可下載
   
   
+  
 ##課程進行需安裝 SSH 及 sftp client
   
-Windows 用戶建議安裝 putty 及 WinSCP:  
+Windows 用戶建議安裝 Putty 及 WinSCP:  
 
 - Putty 安裝: [http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)  
 
 - WinSCP 安裝: [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
-  
-  
+  
+    
+    
 ##相關Docker參考資源
   
 Docker 官方文件: https://docs.docker.com/  
@@ -42,4 +44,4 @@ Docker 從入門到實踐 正體中文版: https://philipzheng.gitbooks.io/docke
 Docker-by-Docker:  http://docker-software-inc.scoop.it/t/docker-by-docker  
 
   
-##祝您學習愉快
+###廣宣學堂祝您學習愉快
