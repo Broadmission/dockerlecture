@@ -1,6 +1,5 @@
 #手把手帶你學docker-超輕量虛擬技術入門篇 
    
-  
 歡迎您參加手把手帶你學Docker : 超輕量虛擬技術入門篇課程。
 教學相關內容資源如下: 
    
@@ -15,8 +14,10 @@
   
 - 可至[Broadmission](https://github.com/Broadmission/dockerlecture) Github [下載](https://github.com/Broadmission/dockerlecture/blob/master/basic_docker_workshop_03042017.zip?raw=true)  
 
-- 或安裝 [Git](https://zh.wikipedia.org/wiki/Git)後進入命令列輸入
+- 或安裝 [Git](https://zh.wikipedia.org/wiki/Git)後進入命令列輸入  
+   
   `cd 欲安裝路徑`
+  
   `git clone https://github.com/Broadmission/dockerlecture.git`  
   
 即可下載
@@ -44,4 +45,4 @@ Docker 從入門到實踐 正體中文版: https://philipzheng.gitbooks.io/docke
 Docker-by-Docker:  http://docker-software-inc.scoop.it/t/docker-by-docker  
 
   
-###廣宣學堂祝您學習愉快
+####廣宣學堂祝您學習愉快
